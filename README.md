@@ -2,9 +2,11 @@
 Android Test
 
 1. Creating Application Introduction
-2. Load List of Users from API
-3. Load List of User Albums from API
-4. Load List of User photos by album from API
+2. Load List of Users from [API](https://jsonplaceholder.typicode.com/users)
+3. Load List of User Albums from [API](https://jsonplaceholder.typicode.com/albums)
+    * single user access query by : ?userId={userId}<br />
+4. Load List of User photos by album from [API](https://jsonplaceholder.typicode.com/photos)
+    * single user access query by : ?albumId={albumId}<br />
 
 [App Walkthrough](https://github.com/liquidpay/simple_test_android/blob/master/walkthrough.mp4)
 
